@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Loyola11.xsl"?>
+
+
+<Loyola>
+	<campus>
+		<name language="english">Health Sciences Campus</name>
+		<abbrev>LHSC</abbrev>
+		<city>Maywood</city>
+		<state>Illinois</state>
+		<country>USA</country>
+		<location_description>Medical programs campus in far western suburb of Chicago</location_description>
+		<building type = "general">
+			<buildingName>Maguire Center</buildingName>
+			<address>2160 1st Avenue, Maywood, IL</address>
+			<year>1970</year>
+			<number-of-floors>5</number-of-floors>
+			<floorArea>4342.3</floorArea>
+			<special-features>Medical Center</special-features>
+			<special-features> </special-features>
+			
+
+			<images>
+			</images>
+			<note>Home to the Health Sciences Division, which includes the Marcella Niehoff School of Nursing, Stritch School of Medicine, The Graduate School biomedical programs, and several research institutes and centersnote></note>
+		</building>
+	</campus>
+
+	<campus>
+		<name language="english">The John Felice Rome Center </name>
+		<abbrev>Rome Center</abbrev>
+		<city>Rome</city>
+		<state></state>
+		<country>Italy</country>
+		<location_description>Provides more than 500 students a year with the cultural advantages of studying abroad, making it one of the largest centers in Western Europe for international education in the arts and sciences. Students live and study on five-acre campus on Via Massimi in Monte Mario, four miles from downtown Rome, Italy</location_description>
+		<building type = "general">
+			<buildingName>Rome Center </buildingName>
+			<address> Via Massimi in Monte Mario </address>
+			<year>1962</year>
+			<number-of-floors>5</number-of-floors>
+			<floorArea>34245.5</floorArea>
+			<special-features>Rome Center</special-features>
+			<special-features> </special-features>
+			
+
+			<images>
+			</images>
+			<note> Alma mater of more than 15,000 alumni worldwide </note>
+		</building>
+	</campus>
+
+	<campus>
+		<name language="english">Lake Shore Campus</name>
+		<abbrev>LSC</abbrev>
+		<city>Chicago</city>
+		<state>Illinois</state>
+		<country>USA</country>
+		<location_description>north side of Chicago in the Rogers Park area</location_description>
+		<building type = "general">
+			<buildingName>Sullivan Center</buildingName>
+			<address>6339 N. Sheridan Rd</address>
+			<year>1970</year>
+			<number-of-floors>5</number-of-floors>
+			<floorArea>4544.67</floorArea>
+			<special-features>Patio facing lake</special-features>
+			<special-features>Library Archived Books Stacks in Basement</special-features>
+			
+
+			<images>
+				<image src="Sullivan_Center outside view.jpg" size="large" type="jpg">Sullivan Center</image>
+				<image src="computer lab.jpg" size="thumb" type="jpg">Computer Lab</image>
+			</images>
+			<note>The Sullivan Center is a centralized student resource building, located at the south end of the Lake Shore Campus.</note>
+		</building>
+		<building type ="landmark">
+			<buildingName>Madonna della Strada Chapel</buildingName>
+			<address> 1032 W Sheridan Rd</address>
+			<year>1939</year>
+			<number-of-floors>1</number-of-floors>
+			<floorArea>12567.6</floorArea>
+			<special-features>Patio facing lake</special-features>
+			
+			<images>
+				<image src="Madonna della Strada Chapel outside.jpg" size="full" type="jpg">Madonna della Strada Chapel</image>
+				<image src="Madonna della Strada Chapel inside.jpg" size="small" type="jpg">Madonna della Strada Chapel</image>
+			</images>
+			<note>The Madonna della Strada Chapel, a striking Art Deco masterpiece completed in 1939, is the center of Loyola's religious life.</note>
+		</building>		
+	</campus>
+
+	<campus>
+		<name language="english">Water Tower Campus</name>
+		<abbrev>WTC</abbrev>
+		<city>Chicago</city>
+		<state>Illinois</state>>
+		<country>USA</country>
+		<location_description>along a stretch of Michigan Avenue named after the Chicago Water Tower</location_description>
+		<building type ="general">
+			<buildingName>Corboy Law Center</buildingName>
+			<address>25 E Pearson St</address>
+			<year>1983</year>
+			<number-of-floors>26</number-of-floors>
+			<floorArea>4455.7</floorArea>
+			<special-features>Library on multiple floors</special-features>
+			<special-features>Café in lower level</special-features>
+			<images>
+				<image src="CorboyLawCenter outside.jpg" size="large" type="jpg">Corboy Law Center</image>
+				<image src="CorboyLawCenter inside.jpg" size="small" type="jpg">Corboy Law Center</image>
+			</images>
+			<note>Philip Harnett Corboy was one of the top 100 most influential lawyers in America.</note>
+		</building>
+		<building type="landmark">
+			<buildingName>Lewis Towers</buildingName>
+			<address> 111 E. Pearson St.</address>
+			<year>1945</year>
+			<number-of-floors>14</number-of-floors>
+			<floorArea>9566.7</floorArea>
+			<special-features>formerly had swimming pool on 14th floor</special-features>
+			<special-features>Café and retail on street level</special-features>
+			<images>
+				<image src="LewisTowers outside.jpg" size="small" type="jpg">Lewis Towers</image>
+				<image src="LewisTowers intside.jpg" size="thumb" type="jpg">Lewis Towers</image>
+			</images>
+			<note>Lewis Towers is one of Loyola's most historic buildings on the Water Tower Campus.</note>
+		</building>		
+	</campus>
+			
+
+</Loyola>
