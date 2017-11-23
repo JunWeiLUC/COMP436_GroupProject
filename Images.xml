@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Images.xsl" ?>
+
+<image_gallery>
+
+	<image>
+	 <title type="person">Rosemary Portrait</title>
+	 <description>A photo of Rosemary as a young adult.</description>
+	 <name>Rosemary Breen Moonan</name>
+	 <photo type="jpg" url="images/Rosemary.jpg">photo</photo>
+	</image>
+	
+	<image>
+	 <title type="event">Kathleen's Wedding</title>
+	 <description>Photo of Kathleen, the bride, with her parents and siblings.</description>
+	 <photo type="jpg" url="images/whilejoeandrosemar-kathleenwedding.jpg">photo</photo>
+	</image>
+	
+	<image>
+	 <title type="place">n/a</title>
+	 <description>n/a</description>
+	</image>
+		
+	<image>	
+	 <title type="art">n/a</title>
+	 <description>n/a</description>
+	 <photo>...</photo>
+	</image>	
+	
+	<image>
+	 <title type="misc">n/a</title>
+	 <description>n/a</description>
+	 <photo>...</photo>
+	</image> 
+	
+</image_gallery>
