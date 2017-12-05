@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Images.xsl" ?>
+
+<image_gallery>
+
+	<image>
+		<ID>1</ID>
+		<Caption>Joe</Caption>
+		<People>Joe</People>
+		<Location></Location>
+		<Event></Event>
+		<Year>1935</Year>
+		<Chapter href="Foreword.html">Foreword</Chapter>
+		<photo type="jpg" url="images/Rosemary.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>2</ID>
+		<caption>Chirstmas</caption>
+		<People>Joe</People>
+		<Location>Sun</Location>
+		<Event> Chrismas</Event>
+		<Year>1963</Year>
+		<Chapter href="The Building of the House.html">The Building of the House</Chapter>
+		<photo type="jpg" url="images/christmas-2-sunroom.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>3</ID>
+		<caption>First</caption>
+		<People>Francie</People>
+		<Location>Front_Yard</Location>
+		<Event></Event>
+		<Year>1952</Year>
+		<Chapter href="First Memories of Older Cousins.html">First Memories of Older Cousins</Chapter>
+		<photo type="jpg" url="images/firstmemories-francie.jpg">photo</photo>
+	</image>
+	
+
+	
+</image_gallery>

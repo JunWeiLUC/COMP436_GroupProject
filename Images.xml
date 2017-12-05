@@ -4,11 +4,27 @@
 <image_gallery>
 
 	<image>
-	 <title type="person">Rosemary Portrait</title>
-	 <description>A photo of Rosemary as a young adult.</description>
-	 <name>Rosemary Breen Moonan</name>
-	 <photo type="jpg" url="images/Rosemary.jpg">photo</photo>
+		<ID>1</ID>
+		<caption>Rosemary Portrait</caption>
+		<Pepleo>Joe Moonan</Pepleo>
+		<Location></Location>
+		<Event></Event>
+		<Year>1935</Year>
+		<Chapter href="Foreword.html">Foreword</Chapter>
+		<photo type="jpg" url="images/Rosemary.jpg">photo</photo>
 	</image>
+	
+	
+	<ID>1</ID>
+		<caption>Chirstmas Party</caption>
+		<Pepleo>Joe, Kitty, Linda, Pete, Robby</Pepleo>
+		<Location>Sun Room, First Floor</Location>
+		<Event> Chrismas Party</Event>
+		<Year>1963</Year>
+		<Chapter href="The Building of the House.html">The Building of the House</Chapter>
+		<photo type="jpg" url="images/christmas-2-sunroom.jpg">photo</photo>
+	</image>
+
 	
 	<image>
 	 <title type="event">Kathleen's Wedding</title>
