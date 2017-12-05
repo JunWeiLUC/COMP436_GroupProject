@@ -22,8 +22,8 @@
 		margin-bottom: 50px;
 		border: 1px solid #ccc;
 		float: left;
-		height: 200px;
-		width: 320px;
+		height: 185px;
+		width: 320px; 
 	}
 
 	div.gallery:hover {
@@ -34,7 +34,7 @@
 		width: 100%;
 		height: auto;
 	}
-
+	
 	div.desc {
 		padding: 12px;
 		text-align: center;
@@ -44,9 +44,9 @@
 	}
 	
 	.crop {
-		height: 200px;
+		height: 185px; <!--200-->
 		width: 320px;
-		overflow: hidden;
+		overflow: hidden; <!-- scroll-->
 	}
 	
 	.crop img {
@@ -57,54 +57,6 @@
 </head>
 
 <body> <!--style for website? -->
-<!--<style type="text/css">
-	#tfheader{
-		background-color:#c3dfef;
-	}
-	#tfnewsearch{
-		float:right;
-		padding:20px;
-	}
-	.tftextinput{
-		margin: 0;
-		padding: 5px 15px;
-		font-family: Arial, Helvetica, sans-serif;
-		font-size:14px;
-		border:1px solid #0076a3; border-right:0px;
-		border-top-left-radius: 5px 5px;
-		border-bottom-left-radius: 5px 5px;
-	}
-	.tfbutton {
-		margin: 0;
-		padding: 5px 15px;
-		font-family: Arial, Helvetica, sans-serif;
-		font-size:14px;
-		outline: none;
-		cursor: pointer;
-		text-align: center;
-		text-decoration: none;
-		color: #ffffff;
-		border: solid 1px #0076a3; border-right:0px;
-		background: #0095cd;
-		background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
-		background: -moz-linear-gradient(top,  #00adee,  #0078a5);
-		border-top-right-radius: 5px 5px;
-		border-bottom-right-radius: 5px 5px;
-	}
-	.tfbutton:hover {
-		text-decoration: none;
-		background: #007ead;
-		background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
-		background: -moz-linear-gradient(top,  #0095cc,  #00678e);
-	}
-	/* Fixes submit button height problem in Firefox */
-	.tfbutton::-moz-focus-inner {
-	  border: 0;
-	}
-	.tfclear{
-		clear:both;
-	}
-  </style> -->
   
   <style>
 	a:link{
@@ -135,22 +87,16 @@
   <nav>
   <ul>
     <li><a href="House Images.html">Houses</a></li>
-	<!-- SUB PARTS within House OR INDIVIDUAL LINK? <li><a href="">Floor Plans</a></li>
-	<li><a href="">First Floor</a></li>
-	<li><a href="">Second Floor</a></li>
-	<li><a href="">Third Floor</a></li> -->
     <li><a href="Events Images.html">Events</a></li>
 	<li><a href="People Images.html">People</a></li>
 	<li><a href="Arts&Artifacts.html">Arts & Artifacts</a></li>
-	<li><a href="">Misc.</a></li>
   </ul>
   </nav>
 
 </div>
 <article> <!--work on making the thumbnails of images the same...-->
 
- <h2>Houses</h2>
-	
+ <h2>Photos of the Houses (interior and exterior)</h2>
 
  <div class="gallery">
     <a target="_blank" href="images/building-housefront.jpg">
@@ -158,8 +104,71 @@
 	 <img src="images/building-housefront.jpg" alt="Image Unavailable">
      </div>   
    </a>
-   <!-- <div class="desc">Add a description of the image here</div> -->
+	<div class="desc">Moonan House in the Winter</div> 
   </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="images/ourmemories-frontdoor.jpg">
+     <div class="crop">     
+	 <img src="images/ourmemories-frontdoor.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Front Doorway</div> 
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="images/front door with child.jpg">
+     <div class="crop">     
+	 <img src="images/front door with child.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Other Doorway</div> 
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="images/SW corner, Jack and Joe.jpg">
+     <div class="crop">     
+	 <img src="images/SW corner, Jack and Joe.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Corner</div> 
+  </div>
+  
+   <div class="gallery">
+    <a target="_blank" href="images/Front yard, Gr Joe  w grch.jpg">
+     <div class="crop">     
+	 <img src="images/Front yard, Gr Joe  w grch.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Front Yard</div> 
+  </div>
+  
+   <div class="gallery">
+    <a target="_blank" href="images/backyard-liliesofthevalley.jpg">
+     <div class="crop">     
+	 <img src="images/backyard-liliesofthevalley.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Back Yard</div> 
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="images/Back yard, sandbox with child.jpg">
+     <div class="crop">     
+	 <img src="images/Back yard, sandbox with child.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Back Yard Sandbox</div> 
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="images/architecture-backyard.jpg">
+     <div class="crop">     
+	 <img src="images/architecture-backyard.jpg" alt="Image Unavailable">
+     </div>   
+   </a>
+	<div class="desc">Moonan House's Back Yard, another view</div> 
+  </div>  
   
   <div class="gallery">
     <a target="_blank" href="images/closing-1-house.jpg">
@@ -167,7 +176,7 @@
 	  <img src="images/closing-1-house.jpg" alt="Image Unavailable">
       </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Moonan House, Another View</div>
   </div>
   
   <div class="gallery">
@@ -176,7 +185,7 @@
 	  <img src="images/Waseca 09 Moonan House.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Moonan House Across the Street</div>
   </div>
   
   <div class="gallery">
@@ -185,7 +194,7 @@
 	  <img src="images/more-house1985.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Moonan House in 1985, 3/4 Profile View</div>
   </div>
   
   <div class="gallery">
@@ -194,7 +203,7 @@
 	  <img src="images/more-house1985cropped.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Moonan House in 1985, Front View</div>
   </div>
   
   <div class="gallery">
@@ -203,7 +212,7 @@
 	  <img src="images/More- house2010.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Moonan House in 2010</div>
   </div>
   
   <div class="gallery">
@@ -212,7 +221,7 @@
 	  <img src="images/thirdfloor-2-stairwellpix.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">3rd Floor Stairwell</div>
   </div>  
   
   <div class="gallery">
@@ -221,8 +230,17 @@
 	  <img src="images/thirdflooralcove.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">3rd Floor Cove</div>
   </div>  
+
+  <div class="gallery">
+    <a target="_blank" href="images/thirdfloor-2-vacuumflap.jpg">
+      <div class="crop">
+	  <img src="images/thirdfloor-2-vacuumflap.jpg" alt="Image Unavailable">
+	  </div>
+	</a>
+    <div class="desc">3rd Floor Vacumm Flap</div>
+  </div>   
 
   <div class="gallery">
     <a target="_blank" href="images/memories-6-margieshouse.jpg">
@@ -230,7 +248,7 @@
 	  <img src="images/memories-6-margieshouse.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Margie's House, side view</div>
   </div> 
   
   <div class="gallery">
@@ -239,7 +257,7 @@
 	  <img src="images/Waseca 11 Margie's House.jpg" alt="Image Unavailable">
 	  </div>
 	</a>
-    <!--<div class="desc">Add a description of the image here</div>-->
+    <div class="desc">Margie's House, front view</div>
   </div>    
   
 </article>
