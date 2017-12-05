@@ -81,7 +81,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   
   <td>
     <xsl:text>total area: </xsl:text>
-	<xsl:value-of select="format-number(./number-of-floors*./floorArea, '0.#')"/> foot<sup>2</sup>
+	<xsl:value-of select="format-number(ceiling(./number-of-floors*./floorArea), '0.#')"/> foot<sup>2</sup>
   </td>
   
   <td>

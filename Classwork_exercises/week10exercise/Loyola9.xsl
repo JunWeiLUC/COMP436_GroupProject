@@ -37,7 +37,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </td>
 </xsl:template>
 
-<xsl:template match="building">
+<xsl:template match="building[position() = last()]">
   <td>
 	<xsl:value-of select="buildingName"/>
   </td>

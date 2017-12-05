@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -13,88 +14,19 @@
       <li><a href="book.html">HTML</a></li>
       <li><a href="PDF">PDF</a></li>
       <li><a href="XML">XML</a></li>
+	     <li><a href="Image Gallery.html">Image Gallery</a></li>
     </ul>
   </body>
   
   <body>
-  <style type="text/css">
-	#tfheader{
-		background-color:#c3dfef;
-	}
-	#tfnewsearch{
-		float:right;
-		padding:20px;
-	}
-	.tftextinput{
-		margin: 0;
-		padding: 5px 15px;
-		font-family: Arial, Helvetica, sans-serif;
-		font-size:14px;
-		border:1px solid #0076a3; border-right:0px;
-		border-top-left-radius: 5px 5px;
-		border-bottom-left-radius: 5px 5px;
-	}
-	.tfbutton {
-		margin: 0;
-		padding: 5px 15px;
-		font-family: Arial, Helvetica, sans-serif;
-		font-size:14px;
-		outline: none;
-		cursor: pointer;
-		text-align: center;
-		text-decoration: none;
-		color: #ffffff;
-		border: solid 1px #0076a3; border-right:0px;
-		background: #0095cd;
-		background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
-		background: -moz-linear-gradient(top,  #00adee,  #0078a5);
-		border-top-right-radius: 5px 5px;
-		border-bottom-right-radius: 5px 5px;
-	}
-	.tfbutton:hover {
-		text-decoration: none;
-		background: #007ead;
-		background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
-		background: -moz-linear-gradient(top,  #0095cc,  #00678e);
-	}
-	/* Fixes submit button height problem in Firefox */
-	.tfbutton::-moz-focus-inner {
-	  border: 0;
-	}
-	.tfclear{
-		clear:both;
-	}
-  </style>
-  
-  <style>
-	a:link{
-		text-decoration: none;
-		  }
-	
-	a:visited{
-		text-decoration: none;
-		  }
-		  
-	a:hover{
-		text-decoration: none;
-		  }
-	a:active{
-		text-decoration: none;
-		  }
-	
-	a.book_link{
-		color: white;
-		  }
-  </style>
+
   
 	<div id="tfheader">
 		<audio controls>
-			<source src="music.mp3" type="audio/mpeg">
+			<source src="audio/The House After Joe and Ethel.mp3" type="audio/mpeg">
 			Your browser does not support the audio element.
 		</audio>
-		<form id="tfnewsearch" method="get" action="book.html">
-		<input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
-		</form>
+
 		<div class="tfclear"></div>
 	</div>
   </body>
@@ -110,7 +42,7 @@
   <nav>
   <ol>
     <li><a href="Foreword.html">Foreword</a></li>
-    <li><a href="The Building of the House.html"><b>The Building of the House</b></a></li> <!-- why is this bolded?-->
+    <li><a href="The Building of the House.html">The Building of the House</a></li> 
     <li><a href="Architecture.html">Architecture</a></li>
 	<li><a href="While John and Rosemary Lived in the House.html">While John and Rosemary Lived in the House</a></li>
     <li><a href="Our Memories.html">Our Memories</a></li>
@@ -131,7 +63,7 @@
     <li><a href="Cellar.html">Cellar</a></li>
     <li><a href="Christmas.html">Christmas</a></li>
 	<li><a href="Grandma's Wake.html">Grandma’s Wake</a></li> 
-    <li><a href="The House After Joe and Ethel.html">The House After Joe and Ethel</a></li>
+    <li><a href="The House After Joe and Ethel.html"><b>The House After Joe and Ethel</b></a></li>
 	<li><a href="Closing.html">Closing</a></li>
   </ol>
   </nav>
@@ -142,6 +74,11 @@
   <h2>The House After Joe and Ethel</h2>
 	
 	<p>
+	
+				<div style="float:left;">
+	<div style="margin: 10px; width:500px"><img src="images/more-house1985.jpg" alt="icon" width = "100%"></div>
+	<center><figcaption><b><i>House in 1985</i></b></figcaption></center>
+	</div>
 	Mark: <blockquote>Grandma Moonan died on March 21, 1962, and Grandpa sold the house not too long afterward to Helen and Dan Sullivan, who moved down from 
 	St. Paul. Helen was Grandpa's sister, our great aunt. She earned her Master's Degree in History. She married Dan Sullivan, whose father was an early investor 
 	in 3M. The two of them taught at Bemidji State College and were childless. The suggestion was they led a glamorous life. He played a ukulele. They smoked. 
@@ -163,4 +100,17 @@
 	</p>
 	
   </article>
+   <h4 style="text-align:center;"><a href="Grandma's Wake.html">Previous Page<a> || <a href="Closing.html">Next Page<a></h4> 
+ 
+ <form action="/html/tags/html_form_tag_action.cfm" method="post">
+<div>
+<textarea name="comments" id="comments" style="font-family:sans-serif;font-size:1.2em;">
+
+</textarea>
+</div>
+<input type="submit" value="Submit">
+</form>
+ 
+ 
+   
 </html>
