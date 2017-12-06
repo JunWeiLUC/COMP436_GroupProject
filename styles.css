@@ -98,6 +98,14 @@ article {
 a.book_link{
 	color: white;
 	}
+
+a:visited{
+	text-decoration:none;
+}
+
+a:link{
+	text-decoration:none;
+}
 	
 footer{
 	padding-left: 35px;
