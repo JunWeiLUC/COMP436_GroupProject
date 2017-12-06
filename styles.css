@@ -101,16 +101,16 @@ audio{
 }
 #introduction {
     float: left;
-	background-color: red;
-    width: 800px;
+	
+    width: 600px;
     margin-left: 1px;
     display: inline;
 }
 
 #content-right {
     float: right;
-    width: 840px;
-	background-color:blue;
+    width: 600px;
+	
     margin-left: 1px;
     display: inline;
 }
