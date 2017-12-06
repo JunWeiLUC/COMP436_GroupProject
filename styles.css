@@ -49,16 +49,106 @@ li {
 
 div.container {
     width: 100%;
+	background-color: #dae89b;
     <!--border: 1px solid gray;>
 }
+
+#site-nav-wrapper {
+    float: left;
+    border: 1px solid #B1CAC1;
+    background-color: #dae89b;
+    padding: 0;
+    width: 100%;
+    height: 40px;
+}
+
+#site-nav {
+    
+    background-color: #dae89b;
+    margin: 0 0 10px 3px;
+    padding: 0;
+    font-size: 110%;
+    list-style: none;
+    float: left;
+    
+    height: 25px;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+audio{
+	background-color:#dae89b;
+	margin-right: 15px;
+	margin-top:4px;
+}
+
+#content {
+    width: auto;
+	background-color: green;
+	
+    padding-top: 40px;
+    /* margin: 0 0 40px 0; */
+    margin: 0 0 10px 0;
+    border: 0;
+}
+#introduction {
+    float: left;
+	background-color: red;
+    width: 800px;
+    margin-left: 1px;
+    display: inline;
+}
+
+#content-right {
+    float: right;
+    width: 840px;
+	background-color:blue;
+    margin-left: 1px;
+    display: inline;
+}
+
+
+
+
 
 header {
     padding: 1em;
     color: white;
-	background: black;
-    clear: left;
-    text-align: center;
+	overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+	background-image: url("The Big Brick House Project.png");
+	background-repeat:   repeat;
+	background-width: 100%;   
+    height:220px;
+	background-position:center;
 }
+
+navbar{
+    float: left;
+    border: 1px solid #B1CAC1;
+    background-color: #dae89b;
+    padding: 0;
+    height: 40px;
+}
+#site-nav li {
+    padding: 3px 5px 3px 5px;
+    float: left;
+    white-space: nowrap;
+	width:100px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
 
 nav {
     float: left;
@@ -67,13 +157,6 @@ nav {
     margin: 0;
     padding: 1em;
 	background: white;
-<<<<<<< HEAD
-    background-size: 500pX 500px;
-=======
-    background-size: 500X 500px;
->>>>>>> html-book
-    background-repeat: repeat;
-
 	
 }
 
@@ -92,11 +175,12 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-	background-color:#c3dfac
+	background-color:#e8c192;
+	font-family: arial, Times, serif;
 }
 
-a.book_link{
-	color: white;
+a, a:visited{
+	color: blue;
 	}
 	
 footer{
@@ -108,11 +192,11 @@ footer{
 }
 
 h1 {
-    font-family: Broadway, Times, serif;
+    font-family: arial, Times, serif;
 }
 
 h2 {
-    font-family: "Copperplate Gothic Bold", Times, serif;
+    font-family: arial, Times, serif;
 }
 
 
