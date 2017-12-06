@@ -182,6 +182,14 @@ article {
 a, a:visited{
 	color: blue;
 	}
+
+a:visited{
+	text-decoration:none;
+}
+
+a:link{
+	text-decoration:none;
+}
 	
 footer{
 	padding-left: 35px;

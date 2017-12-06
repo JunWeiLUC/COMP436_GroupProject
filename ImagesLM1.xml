@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ImagesLM1.xsl" ?>
+
+<image_gallery>
+
+	<image>
+		<ID>1</ID>
+		<Caption>Moonan family generations at the Walbarn home in Owatonna, Easter 1956</Caption>
+		<People>John Walbran</People>
+		<Location>Owatonna</Location>
+		<Event>Easter</Event>
+		<Year>1956</Year>
+		<Chapter href="Foreword.html">Foreword</Chapter>
+		<photo type="jpg" url="">photo</photo>
+	</image>
+	
+	<image>
+		<ID>2</ID>
+		<Caption>Mary and Peggey weren't born yet to make it to the Walbarn home</Caption>
+		<People> Mary and Peggy</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Foreword.html">Foreword</Chapter>
+		<photo type="jpg" url="images/Mary & Peggy,2 inches highjpg.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>3</ID>
+		<Caption>Photo of the young John and Rosemary Moonan</Caption>
+		<People>John and Rosemary</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="The Building of the House.html">The Building of the House</Chapter>
+		<photo type="jpg" url="images/firstmemories-francie.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>4</ID>
+		<Caption>The Moonan House, Front Entry, in the Winter</Caption>
+		<People>n/a</People>
+		<Location>Waseca County</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="The Building of the House.html">The Building of the House</Chapter>
+		<photo type="jpg" url="images/building-housefront.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>5</ID>
+		<Caption>n/a</Caption>
+		<People>n/a</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Architecture.html">Architecture</Chapter>
+		<photo type="jpg" url="images/.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>6</ID>
+		<Caption>Rosemary Moonan on her settee</Caption>
+		<People>Rosemary</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="While John and Rosemary Lived in the House.html">While John and Rosemary Lived in the House</Chapter>
+		<photo type="jpg" url="images/whilejoe+rosemary - rosemary.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>7</ID>
+		<Caption>Kathleen's Wedding with her parents and siblings</Caption>
+		<People>Kathleen</People>
+		<Location>Waseca County</Location>
+		<Event>Wedding</Event>
+		<Year>1919</Year>
+		<Chapter href="While John and Rosemary Lived in the House.html">While John and Rosemary Lived in the House</Chapter>
+		<photo type="jpg" url="images/whilejohn+rosemary-wedding.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>8</ID>
+		<Caption>Ethel and Joe in about 1911</Caption>
+		<People>Ethel and Joe</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>1911</Year>
+		<Chapter href="Our Memories.html">Our Memories</Chapter>
+		<photo type="jpg" url="images/ourmemories-joeandethel.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>9</ID>
+		<Caption>Ethel and Joe with their Daughters in about 1921</Caption>
+		<People>Ethel and Joe</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>1921</Year>
+		<Chapter href="Our Memories.html">Our Memories</Chapter>
+		<photo type="jpg" url="images/ourmemories-withmothers.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>10</ID>
+		<Caption>Joan reading to the Children</Caption>
+		<People>n/a</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Too Young for Memories.html">Too Young for Memories</Chapter>
+		<photo type="jpg" url="images/memories-6-joan+kIDs.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>11</ID>
+		<Caption>Margie's House, side view</Caption>
+		<People>n/a</People>
+		<Location>Margie's House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Too Young for Memories.html">Too Young for Memories</Chapter>
+		<photo type="jpg" url="images/memories-6-margieshouse.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>12</ID>
+		<Caption>Francie in the Snow</Caption>
+		<People>Francie</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="First Memories of Older Cousins.html">First Memories of Older Cousins</Chapter>
+		<photo type="jpg" url="images/firstmemories-francie.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>13</ID>
+		<Caption>The Older Kids</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Memories Shared by the MIDdle Pack.html">Memories Shared by the MIDdle Pack</Chapter>
+		<photo type="jpg" url="images/firstmemories-olderkIDs.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>14</ID>
+		<Caption>Moonan House Front Doorway</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Front Entry Room.html">Front Entry Room</Chapter>
+		<photo type="jpg" url="images/ourmemories-frontdoor.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>15</ID>
+		<Caption>Child near Moonan House Doorway</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Front Entry Room.html">Front Entry Room</Chapter>
+		<photo type="jpg" url="images/front door with child.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>16</ID>
+		<Caption>n/a</Caption>
+		<People>n/a</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Front Entry Room.html"></Chapter>
+		<photo type="jpg" url="">photo</photo>
+	</image>
+
+	<image>
+		<ID>17</ID>
+		<Caption>Third Floor Alcove</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Third Floor.html">Third Floor</Chapter>
+		<photo type="jpg" url="images/thirdflooralcove.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>18</ID>
+		<Caption>Grandpa Joe's Sisters, Helen and Grace, playing Dress Up</Caption>
+		<People>Helen and Grace</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Third Floor.html">Third Floor</Chapter>
+		<photo type="jpg" url="images/3rdfloor-grace+helen.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>19</ID>
+		<Caption>Stairwell to the 2nd Floor</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Second Floor.html">Second Floor</Chapter>
+		<photo type="jpg" url="images/thirdfloor-2-stairwellpix.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>20</ID>
+		<Caption>Baby Jesus Statue with Baby Joe</Caption>
+		<People>Joe (grandchild)</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Second Floor.html">Second Floor</Chapter>
+		<photo type="jpg" url="images/Baby Jesus and Joe Rock black & white copy.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>21</ID>
+		<Caption>Red Vase</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="First Floor.html">First Floor</Chapter>
+		<photo type="jpg" url="images/first-floor-redvase.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>22</ID>
+		<Caption>Blue BrIDesmaID Bowl</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Dining Room.html">Dining Room</Chapter>
+		<photo type="jpg" url="images/diningroom2-bluebrIDeswmadebowl.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>23</ID>
+		<Caption>Pressed Glass</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Dining Room.html"></Chapter>
+		<photo type="jpg" url="images/diningroom-pressedglass1.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>24</ID>
+		<Caption>Mark when young</Caption>
+		<People>Mark</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Library.html">Library</Chapter>
+		<photo type="jpg" url="images/child, Mark (young) copy.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>25</ID>
+		<Caption>Joe with his Children in the Living Room</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Living Room.html">Living Room</Chapter>
+		<photo type="jpg" url="images/livingroom-joe+daughters.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>26</ID>
+		<Caption>The Angelus by Jean Francois Millet</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Living Room.html">Living Room</Chapter>
+		<photo type="jpg" url="images/Llivingroom-angelespainting.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>27</ID>
+		<Caption>Ethel and Joe Moonan in the Sunroom</Caption>
+		<People>Ethel and Joe</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Sun Room.html">Sun Room</Chapter>
+		<photo type="jpg" url="images/sunroom-joe+ethel.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>28</ID>
+		<Caption>Sheila and Dick playing in the Back Yard</Caption>
+		<People>Sheila and Dick</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Back Yard.html">Back Yard</Chapter>
+		<photo type="jpg" url="images/backyard-sheil+dick.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>29</ID>
+		<Caption>Jack with the Tub in the Back Yard</Caption>
+		<People>Jack</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Back Yard.html">Back Yard</Chapter>
+		<photo type="jpg" url="images/backyard-1-jacktub.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>30</ID>
+		<Caption>Dorothy and Mary in the Kitchen</Caption>
+		<People>Dorothy and Mary</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Kitchen.html">Kitchen</Chapter>
+		<photo type="jpg" url="images/kitchen-dorothy+mary.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>31</ID>
+		<Caption>Christmas in the Sunroom</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>Christmas</Event>
+		<Year>n/a</Year>
+		<Chapter href="Christmas.html">Christmas</Chapter>
+		<photo type="jpg" url="images/Sunroom Christmas.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>32</ID>
+		<Caption>The Older Cousins Dining during Christmas</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>Christmas</Event>
+		<Year>n/a</Year>
+		<Chapter href="Christmas.html">Christmas</Chapter>
+		<photo type="jpg" url="images/christmas-oldkIDs.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>33</ID>
+		<Caption>Reenie</Caption>
+		<People>Reenie</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Grandma's Wake.html">Grandma's Wake</Chapter>
+		<photo type="jpg" url="images/child, Reenie.jpg">photo</photo>
+	</image>
+
+	<image>
+		<ID>34</ID>
+		<Caption>Ann</Caption>
+		<People>Ann</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Grandma's Wake.html">Grandma's Wake</Chapter>
+		<photo type="jpg" url="images/child, Ann copy.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>35</ID>
+		<Caption>Marilynn</Caption>
+		<People>Marilynn</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Grandma's Wake.html">Grandma's Wake</Chapter>
+		<photo type="jpg" url="images/child, Marilynn copy.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>36</ID>
+		<Caption>Moonan House in 1985</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="The House After Joe and Ethel.html">The House After Joe and Ethel</Chapter>
+		<photo type="jpg" url="images/more-house1985.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>37</ID>
+		<Caption>Pat and Mark with their Great-Great-Grandpa John</Caption>
+		<People>Pat and Mark</People>
+		<Location>n/a</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Closing.html">Closing</Chapter>
+		<photo type="jpg" url="images/closing-pat+mark.jpg">photo</photo>
+	</image>
+	
+	<image>
+		<ID>38</ID>
+		<Caption>Moonan House</Caption>
+		<People>n/a</People>
+		<Location>Moonan House</Location>
+		<Event>n/a</Event>
+		<Year>n/a</Year>
+		<Chapter href="Closing.html">Closing</Chapter>
+		<photo type="jpg" url="images/closing-1-house.jpg">photo</photo>
+	</image>
+	
+</image_gallery>
