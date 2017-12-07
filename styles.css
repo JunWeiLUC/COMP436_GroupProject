@@ -126,7 +126,7 @@ header {
     overflow-x: hidden ! important;
 	background-image: url("The Big Brick House Project.png");
 	background-repeat:   repeat;
-	background-width: 100%;   
+	background-size: contain;   
     height:220px;
 	background-position:center;
 }
@@ -177,6 +177,7 @@ article {
     overflow: hidden;
 	background-color:#E2FAF8;
 	font-family: arial, Times, serif;
+	height: 100%;
 }
 
 a, a:visited{
@@ -195,8 +196,8 @@ footer{
 	padding-left: 35px;
 	padding-top: 10px;
 	padding-bottom: 20px;
-	color: white;
-	background: black;
+	color: blue;
+	background: #dae89b;
 }
 
 h1 {
