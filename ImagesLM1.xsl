@@ -7,12 +7,6 @@
 <html lang="en">
 
 
-  <header>
-	<a href="book.html" class="book_link">
-		<h1> <b>THE BIG BRICK HOUSE</b></h1>
-	</a>
-  </header>
- 
 <center><h2> Image Gallery</h2></center> 
 
    <body>
